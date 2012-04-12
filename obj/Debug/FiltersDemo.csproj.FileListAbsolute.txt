@@ -1,0 +1,34 @@
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\FiltersDemo.exe
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\FiltersDemo.pdb
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.dll
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Math.dll
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.pdb
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.xml
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Imaging.pdb
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Imaging.xml
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Math.pdb
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Math.xml
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.MainForm.resources
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.exe
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.pdb
+C:\Users\simmon\Desktop\新建文件\AForge.NET Framework-2.2.4\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.Properties.Resources.resources
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\FiltersDemo.exe
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\FiltersDemo.pdb
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\FiltersDemo.exe
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\FiltersDemo.pdb
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.dll
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.Math.dll
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.pdb
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.xml
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.Imaging.pdb
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.Imaging.xml
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.Math.pdb
+C:\Users\simmon\Documents\EMGU\FiltersDemo\bin\Debug\AForge.Math.xml
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\FiltersDemo.MainForm.resources
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\FiltersDemo.Properties.Resources.resources
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\ResGen.read.1.tlog
+C:\Users\simmon\Documents\EMGU\FiltersDemo\obj\Debug\ResGen.write.1.tlog
